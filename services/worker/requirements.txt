@@ -1,0 +1,8 @@
+azure-monitor-opentelemetry
+pika
+httpx
+opentelemetry-instrumentation-httpx
+opentelemetry-instrumentation-logging
+opentelemetry-exporter-otlp-proto-http
+
+

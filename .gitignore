@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+
+# Dotnet
+bin/
+obj/
+
+# VS/IDE
+.vscode/
+.idea/
+
+# OS
+*.log
+*.DS_Store
+
+.env
+.specstory
+

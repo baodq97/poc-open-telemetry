@@ -1,0 +1,11 @@
+azure-monitor-opentelemetry
+fastapi
+uvicorn[standard]
+httpx
+pika
+opentelemetry-instrumentation-fastapi
+opentelemetry-instrumentation-httpx
+opentelemetry-instrumentation-logging
+opentelemetry-exporter-otlp-proto-http
+
+
